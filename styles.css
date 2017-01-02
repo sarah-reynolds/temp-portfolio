@@ -28,3 +28,7 @@ body{
 	max-width: 150px;
 	margin: 20px 0 20px 0;
 }
+
+.extra-bold{
+	font-weight: 800;
+}
